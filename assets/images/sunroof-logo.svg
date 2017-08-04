@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="18px" viewBox="0 0 90 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-Full" transform="translate(-675.000000, -3787.000000)">
+            <g id="Footer" transform="translate(0.000000, 3557.000000)">
+                <g id="Group" transform="translate(675.000000, 228.000000)">
+                    <text id="Site-by" font-family="Lato-Light, Lato" font-size="12" font-weight="300" letter-spacing="0.375" fill="#FFFFFF">
+                        <tspan x="0" y="13">Site by</tspan>
+                    </text>
+                    <text id="Sunroof" font-family="PlayfairDisplay-Regular, Playfair Display" font-size="12" font-weight="normal" letter-spacing="0.75" fill="#FFFFFF">
+                        <tspan x="41" y="10">Sunroof</tspan>
+                    </text>
+                    <path d="M42,19 L90,19" id="Path-5" stroke="#FFFFFF" stroke-width="2"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
